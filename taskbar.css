@@ -1,0 +1,30 @@
+ *
+        {
+            margin:0px;
+            padding:0px;
+        }
+        .menu
+        {
+            height:40px;
+            float:left;
+            width:20%;
+            text-align:center;
+            background-color: black;
+        }
+        .menu p{
+            line-height:40px;
+            color: ghostwhite;
+        }
+        .menu img
+        {
+            max-width:40px;
+            height:40px;
+        }
+        .menu a{
+        color: ghostwhite;
+        font-family: sans-serif;
+        }
+        .menu body {
+        background-size: cover;
+        }
+        

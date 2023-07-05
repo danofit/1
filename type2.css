@@ -1,0 +1,61 @@
+img{
+    width: 50%;
+    height: auto;}
+    .image-container {
+        display: inline-block;
+      }
+    p{ 
+        font-family: monospace;
+        font-size: 18px;
+        color:black;
+        justify-content: center;
+        }
+        a{
+          font-family: monospace;
+        }
+        h1 {text-align: center;
+            font-family: monospace;
+          font-size: 40px;
+          font-weight: bold;
+          color: whitesmoke;
+          text-shadow: 2px 2px grey;
+            background : #4287f5;
+            border-radius: 25px;
+           padding: 20px;
+          width: auto;
+          height: auto;}
+          .row::after {
+            content: "";
+            clear: both;
+            display: table;}
+            * {
+                box-sizing: border-box;
+              }
+              
+              .column {
+                float: left;
+                width: 33.33%;
+                padding: 5px;
+              }
+              #fcircle {
+                width: 50%;
+                height: auto;
+              }              
+              #hog4 {
+                width: 50%;
+                height: auto;
+              }
+              #logo {width: 5%;
+                height: auto;
+                display: block;
+                  margin-left: auto;
+                  margin-right: auto;
+                  
+                }
+                h2 {
+                  font-family: monospace;
+                font-weight: bold;
+                color: rgb(237, 61, 61);
+                text-shadow: 2px 2px grey;
+                font-size: 25px;
+                  }
